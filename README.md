@@ -1,6 +1,6 @@
 ## Hey! 👋
 
-I'm Majekdor. I'm a full time college student on the East Coast studying computer engineering with a minor in computer programming.
+I'm Kevin. I'm a full time college student on the East Coast studying computer engineering with a minor in computer programming.
 In my free time I enjoy coding a number of different things. I've written a few Minecraft plugins and recently have been getting into JavaScript and HTML/CSS for website design.
 
 ## Languages
@@ -12,8 +12,8 @@ I am fairly comfortable, or working to be comfortable, in these languages:
 - HTML
 - CSS
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=majekdor&hide=GLSL&layout=compact&theme=radical)](https://github.com/funnyboy-roks?tab=repositories "Repositories")
-[![](https://github-readme-stats.vercel.app/api?username=majekdor&show_icons=true&theme=radical)](https://github.com/funnyboy-roks?tab=repositories "Repositories")
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=majekdor&hide=GLSL&layout=compact&theme=radical)](https://github.com/majekdor?tab=repositories "Repositories")
+[![](https://github-readme-stats.vercel.app/api?username=majekdor&show_icons=true&theme=radical)](https://github.com/majekdor?tab=repositories "Repositories")
 
 ## Contact Me
 If you'd like to contact me, the best way is via my [Discord](https://discord.gg/CGgvDUz) server. After you join, you can post in one of the channels or message me directly. If you want to message me directly that's fine, but please don't send me a friend request, it's not necessary. 
