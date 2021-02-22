@@ -12,8 +12,8 @@ I am fairly comfortable, or working to be comfortable, in these languages:
 - HTML
 - CSS
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=majekdor&hide=GLSL&layout=compact&theme=radical)](https://github.com/majekdor?tab=repositories "Repositories")
-[![](https://github-readme-stats.vercel.app/api?username=majekdor&show_icons=true&theme=radical)](https://github.com/majekdor?tab=repositories "Repositories")
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=majekdor&hide=GLSL&layout=compact&theme=tokyonight)](https://github.com/majekdor?tab=repositories "Repositories")
+[![](https://github-readme-stats.vercel.app/api?username=majekdor&show_icons=true&theme=tokyonight)](https://github.com/majekdor?tab=repositories "Repositories")
 
 ## Contact Me
 If you'd like to contact me, the best way is via my [Discord](https://discord.gg/CGgvDUz) server. After you join, you can post in one of the channels or message me directly. If you want to message me directly that's fine, but please don't send me a friend request, it's not necessary. 
