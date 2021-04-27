@@ -1,6 +1,6 @@
 ## Hey! 👋
 
-I'm Kevin. I'm a full time college student on the East Coast studying computer engineering with a minor in computer programming.
+I'm Kevin. I'm a full time college student on the East Coast studying computer engineering.
 In my free time I enjoy coding a number of different things. I've written a few Minecraft plugins and recently have been getting into JavaScript and HTML/CSS for website design.
 
 ## Languages
