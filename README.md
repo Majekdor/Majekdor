@@ -7,4 +7,5 @@ In my free time I enjoy coding a number of different things. I'm currently worki
 > Note: All of my open source Minecraft plugins have moved [here](https://github.com/MajekDev).
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=majekdor&hide=GLSL&layout=compact&theme=tokyonight)](https://github.com/majekdor?tab=repositories "Repositories")
-[![](https://github-readme-stats.vercel.app/api?username=majekdor&show_icons=true&theme=tokyonight)](https://github.com/majekdor?tab=repositories "Repositories")
+<!--
+[![](https://github-readme-stats.vercel.app/api?username=majekdor&show_icons=true&theme=tokyonight)](https://github.com/majekdor?tab=repositories "Repositories")-->
